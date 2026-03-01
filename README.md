@@ -1,3 +1,3 @@
-"# Abhishek" 
-my first demo project 
-i am scient institute of technology
+My name is Abhishek
+This is a demo file
+i am studying in scient institute of technology
